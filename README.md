@@ -2,6 +2,5 @@
 
 
 ## 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimha7&show_icons=true&count_private=true)
 ![GitHub metrics](https://metrics.lecoq.io/ibrahimha7)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimha7)  
