@@ -1,4 +1,4 @@
-<img src='https://github.com/ibrahimha7/ibrahimha7/blob/main/time.gif' alt='github'>
+<img src='https://github.com/ibrahimha7/ibrahimha7/blob/main/time2.gif' alt='github'>
 
 
 ## 
