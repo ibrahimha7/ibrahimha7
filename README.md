@@ -4,6 +4,7 @@
 ## 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimha7&show_icons=true&count_private=true&theme=codeSTACKr)
 ##
-![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimha7&count_private=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 ![GitHub metrics](https://metrics.lecoq.io/ibrahimha7)
